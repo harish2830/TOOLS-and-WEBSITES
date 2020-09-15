@@ -36,7 +36,7 @@ a. The Algorithm
 b. The Service Banner
 c. The ports
 
- The Algorithm
+* The Algorithm:
 
    1. Generate a random IPv4 address.
    2. Collect a real-time list of connected devices online.
@@ -45,7 +45,8 @@ c. The ports
    5. Grab a service banner.
    6. Repeat.
 
- The Service Banner
+* The Service Banner:
+
 Service banners contain all the metadata related to a specific device.
 
    1. Geographic location
@@ -54,7 +55,7 @@ Service banners contain all the metadata related to a specific device.
    4. Software version
    5. Make and model
 
-    The Ports
+* The Ports:
 
  With just a quick search or scan on Port numbers, you can explore the wider lot and spot key vulnerabilities in connected devices.
    1. Port 554 – Real Time Streaming Protocol
