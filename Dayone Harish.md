@@ -25,13 +25,13 @@ I am here to file my daily bases work I do to get in practise as-well-as to impr
 4. Sublist3r
 5. Go buster
 
-# Websites 
+### Websites 
 
-### Shodan.io
+## Shodan.io
 
 Shodan is also a search engine, but one designed specifically for IoT devices. It scours the invisible parts of the Internet most people won’t ever see. Any connected device can show up in a search, including:server, printers, webcams, traffic lights, security camaras and control systems etc...,
 
-#####Shodan works under 3 steps 
+Shodan works under 3 steps 
 a. The Algorithm
 b. The Service Banner
 c. The ports
