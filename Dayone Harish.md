@@ -66,7 +66,7 @@ Service banners contain all the metadata related to a specific device.
    > Port 22 – SSH
    > Port 21 – FTP
    > Ports 8443, 443, 8080, and 80 – HTTPS/HTTP
- test
+ 
 
 
 
