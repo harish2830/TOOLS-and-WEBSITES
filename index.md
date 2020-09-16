@@ -155,3 +155,30 @@ GreyNoise collects data on benign scanners such as Shodan.io, as well as malicio
 
 ## Hunter.io
 
+Hunter is an email finder and email verifier tool which allows you to perform domain search for email addresses. 
+
+The tool works by scouring the internet for the email results that you’re looking for.  
+
+## Recon.dev (https://recon.dev/)
+
+At Recon. Dev is build easy to use tools for bug bounty hunters to easily discover and assess targets in the cloud at scale.
+
+* At Recon.Dev we collect in depth recon data
+* on bounty targets and provide cutting edge
+* tools to help you quickly find targets and
+discover bugs.
+
+## Spider foot (https://www.spiderfoot.net/)
+
+
+SpiderFoot automates OSINT collection so that you can focus on analysis. 
+
+##### The three pillars of SpiderFoot
+
+* Scanning
+* Monitoring
+* Investigations
+
+
+
+
