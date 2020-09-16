@@ -10,7 +10,7 @@ I am here to file my daily bases work I do to get in practise as-well-as to impr
 1. Shodon.io (account created)
 2. Censys.io (account created)
 3. CRT.sh
-4. Archiv.org
+4. Archive.org
 5. MXtoolbox.com
 6. Kitterman
 7. Greynoise.io
@@ -93,6 +93,44 @@ Port and protocol scan data for websites in the Alexa top million domains
 
 
 ## CRT.sh
+(https://crt.sh/)
+
+* CRT.sh Certificate Search Recon Script.
+
+The tool https://crt.sh/ is a certificate log monitor. So it’s visible how many certificates are created with a domain name.
 
 
+
+## Archive.org
+
+
+Using the Internet Archive Wayback Machine, it is possible to search for the names of sites contained in the Archive (URLs) and to specify date ranges for your search. We hope to implement a full text search engine at some point in the future.
+
+(https://archive.org/) In simple it is place where we can search webpages in detail by using its URL.
+
+## MXtoolbox.com
+
+
+MxToolbox supports global Internet operations by providing free, fast and accurate network diagnostic and lookup tools for blacklist, email, dns, website, and network performance.
+
+MXtoolbox also deal with below commands:
+
+Command 	  	Explanation
+blacklist: 	  	Check IP or host for reputation
+smtp: 	  	Test mail server SMTP (port 25)
+mx: 	  	DNS MX records for domain
+a: 	  	DNS A record IP address for host name
+spf: 	  	Check SPF records on a domain
+txt: 	  	Check TXT records on a domain
+ptr: 	  	DNS PTR record for host name
+cname: 	  	DNS canonical host name to IP address
+whois: 	  	Get domain registration information
+arin: 		Get IP address block information
+soa: 		Get Start of Authority record for a domain
+tcp: 		Verify an IP Address allows tcp connections
+http: 		Verify a URL allows http connections  
+https: 		Verify a URL allows secure http connections  
+ping: 		Perform a standard ICMP ping
+trace: 		Perform a standard ICMP trace route
+dns: 		Check your DNS Servers for possible problems 
 
