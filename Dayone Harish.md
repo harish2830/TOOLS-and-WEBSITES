@@ -7,8 +7,8 @@ I am here to file my daily bases work I do to get in practise as-well-as to impr
 ##Topics of the Day 
 
 ### Different websites : 
-1. Shodon.io
-2. Censys.io
+1. Shodon.io (account created)
+2. Censys.io (account created)
 3. CRT.sh
 4. Archiv.org
 5. MXtoolbox.com
@@ -31,7 +31,7 @@ I am here to file my daily bases work I do to get in practise as-well-as to impr
 
 Shodan is also a search engine, but one designed specifically for IoT devices. It scours the invisible parts of the Internet most people won’t ever see. Any connected device can show up in a search, including:server, printers, webcams, traffic lights, security camaras and control systems etc...,
 
-Shodan works under 3 steps 
+Shodan works based on 3 service contecnts. 
 a. The Algorithm
 b. The Service Banner
 c. The ports
@@ -59,15 +59,40 @@ Service banners contain all the metadata related to a specific device.
 
  With just a quick search or scan on Port numbers, you can explore the wider lot and spot key vulnerabilities in connected devices.
    1. Port 554 – Real Time Streaming Protocol
-   2. Port 5060 – SIP
-   3. Port 25 – SMTP
-   4. Port 161 – SNMP
+   2. Port 5060 – SIP(Session Initiation Protocol)
+   3. Port 25 – SMTP(Simple Mail Transfer Protocol)
+   4. Port 161 – SNMP(Simple Network Management Protocol.)
    5. Port 23 – Telnet
-   6. Port 993 – IMAP
-   7. Port 22 – SSH
-   8. Port 21 – FTP
+   6. Port 993 – IMAP(Internet Message Access Protocol)
+   7. Port 22 – SSH(Secure Shell)
+   8. Port 21 – FTP(File Transfer Protocol)
    9. Ports 8443, 443, 8080, and 80 – HTTPS/HTTP
  
+## Censys.io
+
+Censys is also a public search engine allows computer scientists to ask questions about the devices and networks that compose the Internet.
+
+Censys maintains three datasets through daily ZMap scans of the Internet and by synchronizing with public certificate transparency logs:
+
+   * Hosts on the Public IPv4 Address Space
+   * Websites in the Alexa Top Million Domains
+   * Certificates
+
+##### IPv4 Banners
+
+Lightweight banner grabs on more than 1000 popular ports across all hosts in the IPv4 address space.
+
+##### Certificates 
+
+Raw and parsed data certificates synchronized with public CT logs or discovered via Internet-wide scans 
+
+##### Websites 
+
+Port and protocol scan data for websites in the Alexa top million domains 
+
+
+
+## CRT.sh
 
 
 
