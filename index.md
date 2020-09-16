@@ -179,6 +179,29 @@ SpiderFoot automates OSINT collection so that you can focus on analysis.
 * Monitoring
 * Investigations
 
+### TOOLS
+
+## DIG (Domain Information Groper)
+
+The DIG command is used in network administration that check and lookup domain name server (DNS) It is dnssec and the part of information gathering.
+
+few examples of Dig command
+> dig Domain txt (Query TXT record)
+dig Domain cname (Query CNAME record)
+dig Domain ns (Query NS record)
+dig Domain A (Query A record)
+
+## NMAP (Network Mapper)
+
+Nmap is a open-source tool for vulnerability scanning and network discovery. Network administrators use Nmap to identify what devices are running on their systems, discovering hosts that are available and the services they offer, finding open ports and detecting security risks.
+
+* To install Nmap for kali linux
+
+>sudo apt-get install nmap
+
+
+
+
 
 
 
