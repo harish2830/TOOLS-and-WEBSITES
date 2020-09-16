@@ -115,22 +115,22 @@ MxToolbox supports global Internet operations by providing free, fast and accura
 
 MXtoolbox also deal with below commands:
 
-Command 	  	Explanation
-blacklist: 	  	Check IP or host for reputation
-smtp: 	  	Test mail server SMTP (port 25)
-mx: 	  	DNS MX records for domain
-a: 	  	DNS A record IP address for host name
-spf: 	  	Check SPF records on a domain
-txt: 	  	Check TXT records on a domain
-ptr: 	  	DNS PTR record for host name
-cname: 	  	DNS canonical host name to IP address
-whois: 	  	Get domain registration information
-arin: 		Get IP address block information
-soa: 		Get Start of Authority record for a domain
-tcp: 		Verify an IP Address allows tcp connections
-http: 		Verify a URL allows http connections  
-https: 		Verify a URL allows secure http connections  
-ping: 		Perform a standard ICMP ping
-trace: 		Perform a standard ICMP trace route
-dns: 		Check your DNS Servers for possible problems 
+>Command 	  	Explanation
+1. blacklist: 	  	Check IP or host for reputation
+2. smtp: 	  	Test mail server SMTP (port 25)
+3. mx: 	  	DNS MX records for domain
+4. a: 	  	DNS A record IP address for host name
+5. spf: 	  	Check SPF records on a domain
+6. txt: 	  	Check TXT records on a domain
+7. ptr: 	  	DNS PTR record for host name
+8. cname: 	  	DNS canonical host name to IP address
+9. whois: 	  	Get domain registration information
+10. arin: 		Get IP address block information
+11. soa: 		Get Start of Authority record for a domain
+12. tcp: 		Verify an IP Address allows tcp connections
+13. http: 		Verify a URL allows http connections  
+14. https: 		Verify a URL allows secure http connections  
+15. ping: 		Perform a standard ICMP ping
+16. trace: 		Perform a standard ICMP trace route
+17. dns: 		Check your DNS Servers for possible problems 
 
